@@ -6,8 +6,8 @@ The code in this project was used to compete under the handle “boilermaker”,
 The main file to run traning and prediction is RunEnsemble.scala.
 
 TODO:
-- Remove male pregnancy
-- Remove male GYNECA or GYNEC1
-- Remove female prostate cancer
+- Remove male pregnancy from data
+- Remove male GYNECA or GYNEC1 from data
+- Remove female prostate cancer from data
 - Consider special handling of family plans
 
