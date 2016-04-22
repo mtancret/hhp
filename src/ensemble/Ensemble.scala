@@ -31,7 +31,7 @@ object Ensemble {
 		nn.computeEntry (targetPatterns)
 		
 		println ("Writing target file...")
-		TargetWriter.writeTarget (targetPatterns, "entry/2012-11-14.csv")
+		TargetWriter.writeTarget (targetPatterns, "entry/output.csv")
 	}
 }
 
