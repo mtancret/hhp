@@ -1,14 +1,7 @@
 
-This project contains code that was used to compete in the Heritage Health Prize (http://www.heritagehealthprize.com/c/hhp).
-A simple MLP Neural Network was used for learning.
-The main effort of the project focused on data sanitization and feature generation and extraction, which is written in Scala.
-This project was a good opportunity to learn the Scala language and how its pattern matching can be used to quickly define features and process data.
-For example, see how the features list is defined in src/features/ClaimDateFeatures.scala.
-The main main file to run traning and prediction is RunEnsemble.scala.
-The MLP Neural Network is adapted from the Java Neural Network by Phil Brierley (http://www.philbrierley.com).
+This project contains code that was used to compete in the Heritage Health Prize (http://www.heritagehealthprize.com/c/hhp). A simple MLP Neural Network was used for learning. The main effort of the project focused on data sanitization and feature generation and extraction, which is written in Scala. This project was a good opportunity to learn the Scala language and how its pattern matching can be used to quickly define features and process data. For example, see how the features list is defined in src/features/ClaimDateFeatures.scala. The main main file to run traning and prediction is RunEnsemble.scala. The MLP Neural Network is adapted from the Java Neural Network by Phil Brierley (http://www.philbrierley.com).
 
-The code in this project was used to compete under the handle “boilermaker”, and ranked 345 out of 1353 (25.5%) on the final leaderboard.
-The code provided here was designed specifically to solve the Heritage Health Prize problem and likely has no direct value, it is provided with the hope that others will be inspired by how Scala can be used to solve similar problems.
+The code in this project was used to compete under the handle “boilermaker”, and ranked 345 out of 1353 (25.5%) on the final leaderboard. The code provided here was designed specifically to solve the Heritage Health Prize problem and likely has no direct value, it is provided with the hope that others will be inspired by how Scala can be used to solve similar problems.
 
 TODO:
 - Remove male pregnancy
