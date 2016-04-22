@@ -3,7 +3,7 @@ This project contains code that was used to compete in the Heritage Health Prize
 
 The code in this project was used to compete under the handle “boilermaker”, and ranked 345 out of 1,353 (25.5%) on the final leaderboard. The code is provided as is, it was designed specifically to solve the Heritage Health Prize problem and likely has no direct value, it is provided with the hope that others will be inspired by how Scala can be used to solve similar problems.
 
-The main file to run traning and prediction is RunEnsemble.scala.
+The main file to run training and prediction is RunEnsemble.scala.
 
 TODO:
 - Remove male pregnancy from data
